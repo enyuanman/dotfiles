@@ -1,2 +1,7 @@
 [init]
 	defaultBranch = main
+[user]
+	email = enyuanzw@gmail.com
+	name = genesis
+[core]
+	editor = vim

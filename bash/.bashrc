@@ -116,3 +116,5 @@ if ! shopt -oq posix; then
   fi
 fi
 source <(kubectl completion bash)
+export EDITOR=vim
+export VISUAL=vim
