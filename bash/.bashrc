@@ -118,3 +118,5 @@ fi
 source <(kubectl completion bash)
 export EDITOR=vim
 export VISUAL=vim
+
+bind 'set bell-style none'
